@@ -33,7 +33,7 @@ a) Escribí una base de conocimiento que permita consultarla de la siguiente for
 
 ```prolog
 ? honesto(ana).
-yes
+true.
 ```
 
 Ahora queremos saber qué empleados pueden servir para un sector dado.
