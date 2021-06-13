@@ -39,6 +39,7 @@ true.
 Ahora queremos saber qué empleados pueden servir para un sector dado.
 
 Sabiendo lo que declaramos en el punto a) y además que Roque y Cecilia trabajaron en la utn,
+
 b) desarrollá un predicado `puedeAndar/2` que relaciona a un sector con un empleado si este puede trabajar allí. Considerar que:
 
 - en contaduria solo pueden trabajar contadores honestos
