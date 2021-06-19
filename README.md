@@ -9,9 +9,9 @@
 
 **Equipo:**  Team Rocket
 
-- Ayelen Garcia (@ayelenMacarena)
-- Federico Romero (@fecheromero)
-- Juan Fernandes (@juanFdS)
+- Iñaki Aranzamendi (@inaaranza)
+- Augusto Fuentes (@aufu)
+- Ciro Fernandez (@Ziro41)
 
 ## Pre-requisitos
 
